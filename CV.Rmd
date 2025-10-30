@@ -1,0 +1,134 @@
+---
+title: "Curriculum Vitae CV"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+### Emily B. Weaver CV 
+#### *Updated 10/2025*
+#
+#
+#### EDUCATION
+**Doctor of Philosophy, Environmental Health Sciences**, 09/2025-Present  
+*Columbia University Mailman School of Public Health, New York, NY*
+
+**Master of Arts, Climate and Society**, 09/2022-08/2023  
+*Columbia University Climate School, New York, NY*
+
+**Bachelor of Arts, Anthropology and Social Policy Analysis**, 08/2018-05/2022            
+*Rice University School of Social Sciences, Houston, TX*
+
+
+#### AWARDS AND FELLOWSHIPS
+* Columbia Climate School Diamonstein-Spielvogel Fellow (2022) 
+* Rice University Department of Anthropology Outstanding Honors Thesis (2022) 
+* Hispanic Scholarship Fund Scholar (2021, 2020) 
+* Sierra Club Scholar (2018) 
+
+#### PUBLICATIONS AND PRESENTATIONS
+
+1.	**Weaver, E.B.,** “Reproductive Health in the Workplace”. in  SAGE Encyclopedia of Environmental Justice, edited by Dorceta Raylor. (under contract, publishing July 2026)
+2.	Ziska, L.H., Zota, A.R., **Weaver, E.B.,** and Shaman, J, "Chapter Six - Climate Justice in the Field: Climate Change and the Health of Migrant Agricultural Workers". in Climate Justice Now! - Multidisciplinary Perspectives on the Climate Crisis, edited by Marwege, Rebecca, Nikhar Gaikwad and Joerg Schaefer, New York: Columbia University Press (under contract, publishing March 2026).
+3.	Dodson, R. E., Franklin, E. T., Zota, A. R., Jameson, R. L., Flint, J. R., Edwards, L., **Weaver, E.B.,** & Shamasunder, B. (2025). Formaldehyde and formaldehyde releasing preservatives in personal care products used by Black women and latinas. Environmental Science & Technology Letters.
+4.	**Weaver E.B.,** Gad L, Zota AR. Climate change as a threat multiplier to environmental reproductive justice. Semin Perinatol. 2023 Dec;47(8):151843. doi: 10.1016/j.semperi.2023.151843. Epub 2023 Oct 10. PMID: 37839904; PMCID: PMC10841484.
+5.	Zota, A. R., Franklin, E. T., **Weaver, E. B.,** Shamasunder, B., Williams, A., Siegel, E. L., & Dodson, R. E. (2023). Examining differences in menstrual and intimate care product use by race/ethnicity and education among menstruating individuals. Frontiers in Reproductive Health, 5, 1286920.
+
+*In Preparation*
+
+1.	**Weaver, E.B.,** “Associations between prenatal phthalate exposure and heavy or irregular menstrual bleeding in young adult women of color: a pilot study.”
+2.	**Weaver, E.B.,** Chan, M.E., Edwards, L.M., Zota, A.R., “Ingredients of Concern in Chemical Hair Straightening Products: A Systematic Review” 
+
+*Science Writing*
+
+1.	“COVID and Public Transit in the Houston Region,” Air Alliance Houston, Link Houston, Texas Southern University. Humphreys, H., Nelson, B. Turner, M. King, D. Brooks, J., Johnson, A., **Weaver, E.B.,** and Holloway, S. “COVID and Public Transit in the Houston Region.” Air Alliance Houston, October 6, 2021, 45.
+
+*Presentations*
+
+1.	**Weaver, E.B.,** Atkins, L.E. “Policy Intervention Targeting Air Pollution and Harris County Carceral Facilities,” Rice University Policy Challenge, a local policy proposal symposium for Houston area policy makers and community members. February 2020. 
+
+#### RESEARCH EXPERIENCE
+**Staff Research Associate with Dr. Ami Zota**, 09/2023-09/2025 
+*Columbia University Mailman School of Public Health, New York, NY*
+
+* Collaborates in research on social determinants of environmental exposures, including participating in project design, data collection, data analysis, and manuscript writing
+* Drafts components of complex Institutional Review Board applications and grant applications for cross institutional projects, including NIH funded grants
+* Assists in the administration of Agents of Change in Environmental Justice fellowship, supporting scholars in environmental justice from historically underrepresented backgrounds
+
+**Graduate Research Assistant with Dr. Ami Zota**, 12/2022-08/2023 
+*Columbia University Mailman School of Public Health, New York, NY* 
+
+* Assisted in the development of curriculum for a graduate level environmental justice course 
+* Supported the development of multi-modal communications about environmental health and toxicity for a broad audience
+
+**Student Research Assistant**, 09/2021-05/2022 
+*Rice University Texas Policy Lab, Houston, TX* 
+
+* Collaborated with director of TPL and 3 other students in analyzing qualitative and quantitative data on the impact of industrial activity and recent population boom on public health in the Permian Basin
+* Used interview transcript and survey data from 65 respondents to author report that discussed outcomes and proposed both policy and healthcare infrastructural interventions
+
+**Climate Fellow**, 11/2021-07/2022
+*Houston Climate Justice Museum, Houston, TX*
+
+* Co-curated exhibitions addressing intersectional issues of climate justice, including assisting in planning, installation, and material selection, creation, specimen preservation, and maintenance 
+* Planned public programming including workshop curriculum, artist panels, and opening events 
+* Assisted with grant-writing, long-term strategic planning, and intern management 
+
+**Research Assistant**,01/2021-12/2021
+*Rice University Departments of Earth Science and Poverty, Justice, and Human Capabilities, Houston, TX* 
+
+* Analyzed geospatial and audio data to interpret whether soundscape of parks served as an indicator for environmental health exposure. Compiled audio files, video footage, interviews, and data generated from soundscapes for multi-media final project and accompanying written report
+
+**Science Policy Student Researcher**, 09/2020-08/2021
+*Citizen’s Environmental Coalition, Houston, TX*
+
+* Compared 121 environmental bills in the 87th Texas legislative Session, creating criteria to determine environmental impact of a bill, identify potential stakeholders, and predict community-level impact of each policy if passed 
+
+**Intern**, 05/2020-09/2020
+*Texas Coastal Exchange, Houston, TX*
+
+* Analyzed data for carbon sequestration non-profit Texas Coastal Exchange, including the scope 1, 2, and 3 emissions of 30 organizations 
+* Compiled presentation materials advising partners on how to improve their environmental footprint through carbon capturing 
+ 
+**Research Assistant**, 07/2020-05/2021
+*Texas Southern University, Houston, TX*
+
+* Evaluated qualitative and quantitative data related to the impacts of COVID-19 on public-transit reliant communities 
+* Assisted in design of research project and compilation of final report used by Harris County Officials in public-transit and public health decision making, especially literature review, policy recommendations, and GIS mapping of COVID-19 outbreak by socio-environmental variables 
+
+#### WORK EXPERIENCE
+**Design and Publication Manager,** 09/2019-05/2021
+*Rice University Journal of Public Policy, Houston, TX*
+
+* Managed production of a policy journal and bi-weekly short form publications from student and guest submissions for the Baker Institute of Public Policy; oversaw team of undergraduate designers 
+
+**Kinder Institute Community Bridges Fellow,** 10/2019-08/2020
+*Air Alliance Houston, Houston, TX*
+
+* Designed engaging campaign documents for 8 major environmental justice priorities for Air Alliance Houston
+* Created marketing materials for events and organization updates including social media posts and listserv emails 
+* Composed grant application materials and research files for organizational use
+
+#### TEACHING AND MENTORING EXPERIENCE 
+**Volunteer Program Tutor,** 03/2024 - Present           *Petey Greene, New York, NY*
+
+* Provided individualized tutoring for students impacted by the carceral justice system, focusing on GED preparedness and college-level coursework. 
+
+**Instructor, LEAD 213: Gulf Scholar Immersion Course,** 09/2021-08/2022                                         *Rice University School of Engineering, Houston, TX*
+
+* Designed curriculum for and instructed course for inaugural cohort of NSF-funded climate change research cohort
+* Focused on interdisciplinary overview of natural disaster recovery and community resilience in the greater Houston area, drawing most prominently from the disciplines of environmental engineering, earth science, and geography 
+* Supported the scholarly development of students from diverse backgrounds, 75% of whom identified as students of color, 50% of whom identified as low income, and 25% of whom identified as first generation college students
+
+**Student Ambassador and Peer Mentor,** 05/2020-05/2022
+*Rice University Center for Civic Leadership, Houston, TX*
+
+* Developed programming and organized outreach efforts for university center for civic leadership. Worked closely with peers, faculty, and staff on student engagement, fellowships, center hiring, and entry-level programs 
+
+**Coordinator – Houston Policy Challenge, Environmental Justice,** 07/2020-04/2021                              
+*Rice University Center for Civic Leadership, Houston, TX*
+
+* Coordinated programming for 60 student participants on environmental justice policy in Houston, including compiling research files, writing lecture videos, and creating assignments
+* Individually mentored and facilitated the development of policy proposals and written briefs for 5 teams, including the first-place winning team, third place winning team, and audience choice winning team (three of four total awards) 

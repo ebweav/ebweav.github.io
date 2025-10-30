@@ -1,0 +1,22 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+
+<img src="images/Untitled-design-8-2.jpg" style="width:50%">
+
+#### Emily B. Weaver, MA
+
+Emily is a PhD Student at Columbia University in the department of Environmental Health Sciences. She earned her masters degree in Climate and Society at Columbia, and undergraduate degrees in Anthropology and Social Policy Analysis from Rice University. You can read her CV [here](cv.html)
+
+Broadly, she is interested in how social stratification worsens extreme environmental hazards (pollution, natural disasters) for marginalized communities. Some new york weather datasets analyzed for a class are available [here](dashboard2.html)
+
+
+*This website was coded by Emily Weaver using RMarkdown. Go back to [home page](index.html)*
+
+

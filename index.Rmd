@@ -1,0 +1,19 @@
+---
+title: "Emily B. Weaver"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+This is the homepage of my website. I'm a doctoral student at [Columbia University](https://www.publichealth.columbia.edu/).Broadly, I am interested in how social stratification worsens extreme environmental hazards (pollution, natural disasters) for marginalized communities.
+
+You can use the navigation bar to read [my CV](CV.html) or see examples of [what I'm working on](plots.html) in my classes. 
+
+Here's a picture of me doing field work: 
+
+<img src="Images/IMG_1342.jpg">
+
+
+

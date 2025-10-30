@@ -1,0 +1,95 @@
+---
+title: "About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+We often make plots in data science. 
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(plotly)
+library(lubridate)
+library(dplyr)
+```
+
+```{r}
+#uploading data
+noaa = read.csv("nynoaadat.csv") %>%
+  mutate(date = as.Date(date))
+
+noaa_long_00_10 = noaa %>%
+  mutate(date = as.Date(date)) %>%
+  filter(year(date) >= 2000, year(date) <= 2010) %>%
+  mutate(month_num = month(date, label = TRUE))%>%
+  mutate(month_num = as.factor(month_num)) %>%
+  mutate(year = year(date)) %>%
+  mutate(tmax = tmax/10)
+
+noaa_wide_00_10 = noaa_long_00_10 %>%
+  mutate(month = floor_date(date, "month")) %>%
+  mutate(year = floor_date(date, "year")) %>%
+  group_by(id, month) %>%
+  summarise(median_tmax = median(tmax/10, na.rm = TRUE), .groups = "drop") %>%
+  pivot_wider(names_from = month,
+    values_from = median_tmax,
+    names_prefix = "median_")
+
+```
+
+#### Scatter Plot of Mean Winter Temperatures
+```{r}
+
+#Maximum temperature (tenths of degrees C)
+int_box = noaa_long_00_10%>%
+  plot_ly(x = ~month_num, y = ~tmax, type = "box", color = ~month_num, 
+    jitter = 0.3) %>%
+  layout(xaxis = list(title = "Month"),
+         yaxis = list(title = "Maximum Temperature (C)"),
+         title = "Range of Maximum Temperature Internationally (2000-2010)")
+
+int_box
+
+```
+
+
+Scatterplot of Snowfall in Winter 
+
+```{r}
+snow_djf = noaa_long_00_10 %>%
+  mutate(month_numeric = month(date),                
+    month_label= month(date, label = TRUE)) %>%
+  group_by(month_numeric, month_label, year) %>%
+  summarise(avg_snow= mean(snow, na.rm= TRUE),.groups = "drop") %>%
+  arrange(month_numeric)
+  
+snow_plot = snow_djf %>%
+  plot_ly(x= ~month_numeric, y= ~avg_snow, type = "scatter", mode = "markers", text = ~month_label, color= ~year) %>%
+  layout(xaxis = list(title = "Month"),
+         yaxis = list(title = "Snowfall in mm"),
+         title = "Average Monthly Snowfall Internationally (2000-2010)")
+
+snow_plot
+```
+```{r}
+precipitation = noaa_long_10_20 %>%
+  filter(!is.na(prcp)) %>%
+  mutate(month_numeric = month(date),                
+    month_label= month(date, label = TRUE)) %>%
+  group_by(month_numeric, month_label) %>%
+  summarise(avg_prcp= mean((prcp/10), na.rm= TRUE),.groups = "drop") %>%
+  arrange(month_numeric)
+
+precip_bar = precipitation %>%
+  plot_ly(x= ~month_numeric, y= ~avg_prcp, type = "bar", text = ~month_label) %>%
+  layout(xaxis = list(title = "Month"),
+         yaxis = list(title = "Precipitation in mm"),
+         title = "International Average Monthly Precipitation (2000-2010)")
+
+precip_bar
+
+```
