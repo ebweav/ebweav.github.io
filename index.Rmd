@@ -9,7 +9,7 @@ output:
 
 This is the homepage of my website. I'm a doctoral student at [Columbia University](https://www.publichealth.columbia.edu/).Broadly, I am interested in how social stratification worsens extreme environmental hazards (pollution, natural disasters) for marginalized communities.
 
-You can use the navigation bar to read [my CV](CV.html) or see examples of [what I'm working on](plots.html) in my classes. 
+You can use the navigation bar to read [my CV](CV.html) or see examples of [what I'm working on](dashboard2.html) in my classes. 
 
 Here's a picture of me doing field work: 
 
